@@ -1,3 +1,4 @@
 hello.txt
 *.log
 README_old.md
+*.orig
