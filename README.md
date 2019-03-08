@@ -19,4 +19,4 @@ this is a simple web project deployment can be any we server or even local file 
 
 Please fork this repository and then issue pull request for review.
 
-Copyright 2019 Git.Training
+Copyright 2019 Git.Training.. All rights are reserved !!
