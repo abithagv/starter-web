@@ -6,7 +6,8 @@
     Jason Taylor jason@git.training @awesomejt
 
 # THANKS
-
+	
+	git adding
     All my students !!!
 	please give a review if u like this course!!
 
